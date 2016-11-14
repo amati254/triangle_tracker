@@ -1,0 +1,11 @@
+#add{
+  width: 500px;
+  position: absolute;
+  left: 200px;
+}
+.equilateral , .isosceles, .scalene, .rightscalene{
+  display: none;
+  position: absolute;
+  left: 300px;
+  top: 250px;
+}
